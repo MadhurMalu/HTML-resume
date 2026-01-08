@@ -1,0 +1,61 @@
+body{
+    background-color: #001F3D;
+    color: aliceblue;
+}
+
+
+h1{
+    background-color: #ED985F;
+    
+}
+
+h2{
+    color: #3B9797;
+    margin: 1px;
+    text-transform: ;
+    
+}
+h3{
+    color: hsl(176, 100%, 57%);
+}
+
+div{
+   width: 80%;
+   height: 0px;
+    
+}
+img{
+    border: whitesmoke solid 5px;
+    margin-left: 80%;
+    padding: 1%;
+    
+}
+
+.small{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue; 
+    padding: px;
+    width: 14%;
+    height: 25px;
+    border-radius: 4px;
+}
+.smalsl{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue; 
+    padding: px;
+    width:8%;
+    height: 25px;
+    border-radius: 4px;
+}
+.para{
+    margin-top: 40px;
+    }
+.sum{
+    text-transform: uppercase;
+}
+li{
+color: rgb(215, 250, 215);
+}
+a{
+    color: antiquewhite;
+}
